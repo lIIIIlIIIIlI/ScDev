@@ -1,0 +1,2 @@
+# ScDev
+StarCraft development resources.
